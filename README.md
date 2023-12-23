@@ -1,5 +1,3 @@
-# Amr Yasser - عمـرو بےـرو 🌟
-
 ## 🚀 About Me:
 I am Amr Yasser, known in the tech sphere as "عمـرو بےـرو". My journey in technology began when I was in third grade, tinkering with game mods. This passion evolved into a desire to create my own games and software.
 
