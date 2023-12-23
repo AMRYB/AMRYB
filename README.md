@@ -4,7 +4,7 @@ I am Amr Yasser, known in the tech sphere as "عمـرو بےـرو". My journey
 ## 💻 Programming Journey:
 - **2016:** Started learning `Java` and `C#` through YouTube.
 - **2017:** Published `C#` code on a tech center in Dokki.
-- **2018:** Participated in the "Million Arab Coders" program, specializing in web development and `Android` apps.
+- **2018:** Participated in the "Million Arab Coders" program, specializing in web development and Android apps.
 - **2019:** Awarded the title of "Best Young Programmer" by Udacity.
 - **2020:** Earned a Nanodegree in `Front-End Development` from Udacity.
 - **2021:** Acquired Nanodegrees in `Android` and `Full Stack` development.
